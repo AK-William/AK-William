@@ -1,8 +1,8 @@
 *Hi there 👋*
 
-| Name |Link | Language|
-| -------- | -------- | -------- | 
-| Aurora    | [Link](https://aurora-ten.vercel.app/)   |HTML, CSS, JAVASCRIPT|
+| | Name |Link | Language|
+| -------- | -------- | -------- | -------- | 
+|![Aurora](Aurora.png) | Aurora    | [Link](https://aurora-ten.vercel.app/)   |HTML, CSS, JAVASCRIPT|
 
 
 
